@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finanzas</string>
+    <string name="tab_dashboard">Inicio</string>
+    <string name="tab_transactions">Movimientos</string>
+    <string name="tab_reports">Análisis</string>
+    <string name="tab_settings">Ajustes</string>
+</resources>
